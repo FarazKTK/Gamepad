@@ -1,0 +1,582 @@
+@media(width: 320px){
+    .logo{
+        width: 60% !important;
+    }
+    .controller-text{
+        font-size: 46px !important;
+    }
+    .vedio-text{
+        font-size: 43px !important;
+    }
+    .shop-btn{
+        width: 135px !important;
+    }
+    .banner-section{
+        height: 850px !important;
+    }
+    .about-section{
+        padding-top: 0px !important;
+    }
+    .image-2{
+        text-align: center !important;
+    }
+    .shop-btn-2{
+        width: 135px !important;
+    }
+    .product-text{
+        font-size: 37px !important;
+    }
+    .see-main{
+        width: 137px !important;
+    }
+    .vedio-section{
+        padding-bottom: 80px !important;
+    }
+    .vedio-text-2{
+        font-size: 30px !important;
+    }
+    .controller-text-2{
+        font-size: 30px !important;
+    }
+    .testimonial-text{
+        font-size: 40px !important;
+    }
+    .main-box{
+        width: 100% !important;
+        padding: 20px !important;
+    }
+    .client-main{
+        width: 110% !important;
+    }
+    .client-right{
+        left: -1px !important;
+    }
+    .image-6{
+        margin-top: 50px !important;
+        text-align: center !important;
+    }
+    .icon-box{
+        width: 70% !important;
+    }
+    .icon-box ul{
+        display: inline-flex !important;
+    }
+}
+@media(width: 375px){
+    .controller-text{
+        font-size: 50px !important;
+    }
+    .vedio-text{
+        font-size: 50px !important;
+    }
+    .shop-btn{
+        width: 135px !important;
+    }
+    .banner-section{
+        height: 850px !important;
+    }
+    .about-section{
+        padding-top: 0px !important;
+    }
+    .image-2{
+        text-align: center !important;
+    }
+    .shop-btn-2{
+        width: 135px !important;
+    }
+    .product-text{
+        font-size: 37px !important;
+    }
+    .see-main{
+        width: 137px !important;
+    }
+    .vedio-section{
+        padding-bottom: 80px !important;
+    }
+    .vedio-text-2{
+        font-size: 30px !important;
+    }
+    .controller-text-2{
+        font-size: 30px !important;
+    }
+    .testimonial-text{
+        font-size: 40px !important;
+    }
+    .main-box{
+        width: 100% !important;
+        padding: 20px !important;
+    }
+    .client-main{
+        width: 110% !important;
+    }
+    .client-right{
+        left: -1px !important;
+    }
+    .image-6{
+        margin-top: 50px !important;
+        text-align: center !important;
+    }
+    .icon-box{
+        width: 70% !important;
+    }
+    .icon-box ul{
+        display: inline-flex !important;
+    }
+}
+@media(width: 414px){
+    .controller-text{
+        font-size: 55px !important;
+    }
+    .vedio-text{
+        font-size: 50px !important;
+    }
+    .shop-btn{
+        width: 135px !important;
+    }
+    .banner-section{
+        height: 850px !important;
+    }
+    .about-section{
+        padding-top: 0px !important;
+    }
+    .image-2{
+        text-align: center !important;
+    }
+    .shop-btn-2{
+        width: 135px !important;
+    }
+    .product-text{
+        font-size: 37px !important;
+    }
+    .see-main{
+        width: 137px !important;
+    }
+    .vedio-section{
+        padding-bottom: 80px !important;
+    }
+    .vedio-text-2{
+        font-size: 40px !important;
+    }
+    .controller-text-2{
+        font-size: 40px !important;
+    }
+    .testimonial-text{
+        font-size: 40px !important;
+    }
+    .main-box{
+        width: 100% !important;
+        padding: 20px !important;
+    }
+    .client-main{
+        width: 110% !important;
+    }
+    .client-right{
+        left: -1px !important;
+    }
+    .image-6{
+        margin-top: 50px !important;
+        text-align: center !important;
+    }
+    .icon-box{
+        width: 70% !important;
+    }
+    .icon-box ul{
+        display: inline-flex !important;
+    }
+}
+@media(width: 390px){
+    .controller-text{
+        font-size: 50px !important;
+    }
+    .vedio-text{
+        font-size: 45px !important;
+    }
+    .shop-btn{
+        width: 135px !important;
+    }
+    .banner-section{
+        height: 850px !important;
+    }
+    .product-text{
+        font-size: 37px !important;
+    }
+    .see-main{
+        width: 137px !important;
+    }
+    .vedio-section{
+        padding-bottom: 80px !important;
+    }
+    .vedio-text-2{
+        font-size: 40px !important;
+    }
+    .controller-text-2{
+        font-size: 40px !important;
+    }
+    .testimonial-text{
+        font-size: 40px !important;
+    }
+    .main-box{
+        width: 100% !important;
+        padding: 20px !important;
+    }
+    .client-main{
+        width: 110% !important;
+    }
+    .client-right{
+        left: -1px !important;
+    }
+    .image-6{
+        margin-top: 50px !important;
+        text-align: center !important;
+    }
+    .icon-box{
+        width: 70% !important;
+    }
+    .icon-box ul{
+        display: inline-flex !important;
+    }
+}
+@media(width: 430px){
+    .controller-text{
+        font-size: 50px !important;
+    }
+    .vedio-text{
+        font-size: 45px !important;
+    }
+    .shop-btn{
+        width: 135px !important;
+    }
+    .banner-section{
+        height: 850px !important;
+    }
+    .product-text{
+        font-size: 37px !important;
+    }
+    .see-main{
+        width: 137px !important;
+    }
+    .vedio-text-2{
+        font-size: 40px !important;
+    }
+    .controller-text-2{
+        font-size: 40px !important;
+    }
+    .testimonial-text{
+        font-size: 40px !important;
+    }
+    .main-box{
+        width: 100% !important;
+        padding: 20px !important;
+    }
+    .client-main{
+        width: 110% !important;
+    }
+    .client-right{
+        left: -1px !important;
+    }
+    .image-6{
+        margin-top: 50px !important;
+        text-align: center !important;
+    }
+    .icon-box{
+        width: 70% !important;
+    }
+    .icon-box ul{
+        display: inline-flex !important;
+    }
+}
+@media(width: 412px){
+    .controller-text{
+        font-size: 50px !important;
+    }
+    .vedio-text{
+        font-size: 45px !important;
+    }
+    .shop-btn{
+        width: 135px !important;
+    }
+    .banner-section{
+        height: 850px !important;
+    }
+    .product-text{
+        font-size: 37px !important;
+    }
+    .see-main{
+        width: 137px !important;
+    }
+    .vedio-text-2{
+        font-size: 40px !important;
+    }
+    .controller-text-2{
+        font-size: 40px !important;
+    }
+    .testimonial-text{
+        font-size: 40px !important;
+    }
+    .main-box{
+        width: 100% !important;
+        padding: 20px !important;
+    }
+    .client-main{
+        width: 110% !important;
+    }
+    .client-right{
+        left: -1px !important;
+    }
+    .image-6{
+        margin-top: 50px !important;
+        text-align: center !important;
+    }
+    .icon-box{
+        width: 70% !important;
+    }
+    .icon-box ul{
+        display: inline-flex !important;
+    }
+}
+@media(width: 360px){
+    .controller-text{
+        font-size: 50px !important;
+    }
+    .vedio-text{
+        font-size: 45px !important;
+    }
+    .shop-btn{
+        width: 135px !important;
+    }
+    .banner-section{
+        height: 850px !important;
+    }
+    .product-text{
+        font-size: 37px !important;
+    }
+    .see-main{
+        width: 137px !important;
+    }
+    .vedio-section{
+        padding-bottom: 80px !important;
+    }
+    .vedio-text-2{
+        font-size: 40px !important;
+    }
+    .controller-text-2{
+        font-size: 35px !important;
+    }
+    .testimonial-text{
+        font-size: 40px !important;
+    }
+    .main-box{
+        width: 100% !important;
+        padding: 20px !important;
+    }
+    .client-main{
+        width: 110% !important;
+    }
+    .client-right{
+        left: -1px !important;
+    }
+    .image-6{
+        margin-top: 50px !important;
+        text-align: center !important;
+    }
+    .icon-box{
+        width: 70% !important;
+    }
+    .icon-box ul{
+        display: inline-flex !important;
+    }
+}
+@media(width: 768px){
+    .controller-text{
+        font-size: 50px !important;
+    }
+    .vedio-text{
+        font-size: 45px !important;
+    }
+    .shop-btn{
+        width: 135px !important;
+    }
+    .banner-section{
+        height: 570px !important;
+    }
+    .icon-box{
+        width: 70% !important;
+    }
+    .icon-box ul{
+        display: inline-flex !important;
+    }
+}
+@media(width: 820px){
+    .controller-text{
+        font-size: 50px !important;
+    }
+    .vedio-text{
+        font-size: 45px !important;
+    }
+    .shop-btn{
+        width: 135px !important;
+    }
+    .banner-section{
+        height: 570px !important;
+    }
+    .icon-box{
+        width: 70% !important;
+    }
+    .icon-box ul{
+        display: inline-flex !important;
+    }
+}
+@media(width: 912px){
+    .controller-text{
+        font-size: 50px !important;
+    }
+    .vedio-text{
+        font-size: 45px !important;
+    }
+    .shop-btn{
+        width: 135px !important;
+    }
+    .banner-section{
+        height: 570px !important;
+    }
+    .icon-box{
+        width: 70% !important;
+    }
+    .icon-box ul{
+        display: inline-flex !important;
+    }
+}
+@media(width: 540px){
+    .controller-text{
+        font-size: 50px !important;
+    }
+    .vedio-text{
+        font-size: 45px !important;
+    }
+    .shop-btn{
+        width: 135px !important;
+    }
+    .banner-section{
+        height: 900px !important;
+    }
+    .product-text{
+        font-size: 37px !important;
+    }
+    .see-main{
+        width: 137px !important;
+    }
+    .vedio-section{
+        padding-bottom: 80px !important;
+    }
+    .testimonial-text{
+        font-size: 40px !important;
+    }
+    .main-box{
+        width: 100% !important;
+        padding: 20px !important;
+    }
+    .client-main{
+        width: 110% !important;
+    }
+    .client-right{
+        left: -1px !important;
+    }
+    .image-6{
+        margin-top: 50px !important;
+        text-align: center !important;
+    }
+    .icon-box{
+        width: 70% !important;
+    }
+    .icon-box ul{
+        display: inline-flex !important;
+    }
+}
+@media(width: 344px){
+    .controller-text{
+        font-size: 46px !important;
+    }
+    .vedio-text{
+        font-size: 43px !important;
+    }
+    .shop-btn{
+        width: 135px !important;
+    }
+    .banner-section{
+        height: 840px !important;
+    }
+    .product-text{
+        font-size: 37px !important;
+    }
+    .see-main{
+        width: 137px !important;
+    }
+    .vedio-section{
+        padding-bottom: 80px !important;
+    }
+    .vedio-text-2{
+        font-size: 35px !important;
+    }
+    .controller-text-2{
+        font-size: 35px !important;
+    }
+    .testimonial-text{
+        font-size: 40px !important;
+    }
+    .main-box{
+        width: 100% !important;
+        padding: 20px !important;
+    }
+    .client-main{
+        width: 110% !important;
+    }
+    .client-right{
+        left: -1px !important;
+    }
+    .image-6{
+        margin-top: 50px !important;
+        text-align: center !important;
+    }
+    .icon-box{
+        width: 70% !important;
+    }
+    .icon-box ul{
+        display: inline-flex !important;
+    }
+}
+@media(width: 853px){
+    .controller-text{
+        font-size: 46px !important;
+    }
+    .vedio-text{
+        font-size: 43px !important;
+    }
+    .shop-btn{
+        width: 135px !important;
+    }
+    .banner-section{
+        height: 570px !important;
+    }
+    .icon-box{
+        width: 70% !important;
+    }
+    .icon-box ul{
+        display: inline-flex !important;
+    }
+}
+@media(width: 1024px){
+    .icon-box{
+        width: 70% !important;
+    }
+    .icon-box ul{
+        display: inline-flex !important;
+    }
+}
+@media(width: 1280px){
+    .icon-box{
+        width: 70% !important;
+    }
+    .icon-box ul{
+        display: inline-flex !important;
+    }
+}
